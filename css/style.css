@@ -36,9 +36,10 @@ header a{
 }
 /* body */
 
-.container{
+.container-box{
     margin-top:-90px;
     background-color: white;
+    padding-bottom: 50px;
 }
 
 img{
@@ -57,6 +58,11 @@ span{
     font-size:14;
 }
 
+.hsix{
+    color: grey;
+    text-decoration: none !important;
+}
+
 .media-body{
     margin-top:40px;
     line-height: 2;
@@ -65,7 +71,7 @@ span{
     padding-bottom: 20px;
 }
 
-.row{
+.row {
     padding:10px;
     padding-right: 20px;
 }
